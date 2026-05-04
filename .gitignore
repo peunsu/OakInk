@@ -4,6 +4,8 @@ assets/**
 build/**
 temp/**
 tmp/**
+processed/**
+oakink_processed.zip
 
 
 .vscode/**
